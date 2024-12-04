@@ -11,5 +11,16 @@ console.log(typeof scoreInNumber);
 // true => 1, false => 0
 
 
+// ************************* Operations *******************
+
+console.log("1" + 2);  // 12
+console.log(1 + "2");  // 12
+console.log("1" + 2 + 2);  // 122
+console.log("1" + 2 + "2");  // 122
+console.log(1 + 2 + "2");  // 32
+console.log(1+ "2" + 2);  // 122
+
+
+
 
 
